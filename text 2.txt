@@ -1,0 +1,35 @@
+｡𖦹°‧, [Apr 9, 2025 at 21:34]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Personal Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+    <nav>
+      <a href="#about">About Me</a>
+      <a href="#random">Random Stuff</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello! I'm [Your Name], and this is my personal space on the web.</p>
+    </section>
+
+    <section id="random">
+      <h2>Random Stuff</h2>
+      <p>This section can be anything — thoughts, pictures, links, or whatever you like.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made by me. Last updated in 2025.</p>
+  </footer>
+</body>
+</html>
